@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John1liu
-- 👀 I’m interested in computer vision now.
-- 🌱 I’m currently learning semantic segmentation.
-- 💞️ I’m looking to collaborate on a project related to unsupervised learning semantic segmentation model.
+- 👀 I’m interested in deep reinforcement learning and graph neural network now.
+- 🌱 I’m currently learning PyG and OGB.
+- 💞️ I’m looking to collaborate on a project related to ...
 - 📫 How to reach me 
       email: john_liu888@hotmail.com
 
