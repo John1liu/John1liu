@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @John1liu
-- 👀 I’m interested in deep reinforcement learning and graph neural network now.
-- 🌱 I’m currently learning PyG and OGB.
-- 💞️ I’m looking to collaborate on a project related to ...
+- 👋 Hi, I’m @John1liu, a new master student in IoT Smart City State key lab, University of Macau. 
+- 👀 I’m interested in graph neural network and distance query now.
+- 🌱 I’m currently learning PyG and OGB, in order to find a good pooling scheme for different vertices sets.
+- 💞️ I’m looking to collaborate on a project related to graph pooling algorithm.
 - 📫 How to reach me 
       email: john_liu888@hotmail.com
 
